@@ -1,0 +1,7 @@
+DEPLOYMENT = DEVELOPMENT
+HTTPS_ENABLED = true
+PORT = 443
+LOGGER = dev
+MONGO_URL = mongodb+srv://onur:onur123@iyzico.551bnss.mongodb.net/payments-system-development?retryWrites=true&w=majority
+JWT_SECRET = O^1&AS2)s+3!`'Wf%b0?02Jbdepzc&7/
+END_POINT = https://127.0.0.1/api
